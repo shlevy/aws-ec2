@@ -29,6 +29,7 @@ library
     , Aws.Query.TH
     , Aws.Query.Types
     , Aws.TH
+    , Aws.Cmd
 
     , Aws.CloudWatch
     , Aws.CloudWatch.Core
